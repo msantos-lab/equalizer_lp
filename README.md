@@ -1,6 +1,9 @@
 # Equalizer - Landing Page
 Esta é uma página fictícia para o Equalizer, um equalizador de áudio do sistema projetado especificamente para dispositivos Android e iOS. Esta página foi criada com o objetivo de demonstrar minhas habilidades de desenvolvimento e compor um portfólio.
 
+## Screenshot
+![](/assets/images/screenshot.png "Projeto: Equalizer - Landing Page")
+
 ## Tecnologias utilizadas
 + HTML
 + CSS
