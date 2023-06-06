@@ -1,3 +1,4 @@
+//________EXIBIR IMAGENS NO SCROLL 
 const illustration = document.querySelector(".app"),
 	txt = document.querySelector(".text");
 
